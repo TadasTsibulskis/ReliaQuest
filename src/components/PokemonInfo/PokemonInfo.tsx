@@ -121,9 +121,6 @@ const useStyles = createUseStyles(
         width: '100%',
         marginBottom: '10px',
       },
-      '& :last-child': {
-        marginTop: '40px',
-      },
     },
     name: {
       width: '100%',
